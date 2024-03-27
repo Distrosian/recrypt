@@ -3,5 +3,6 @@
 
 
 A custom-encryption based algorithm
+<br>
 <i>A process can only be done once per session to prevent bruteforce attacks , reload the tab to use the process again</i>
 
